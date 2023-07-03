@@ -1,0 +1,30 @@
+dist
+├── client
+│   ├── _astro
+│   │   ├── HelloThere.9fb0245b.js
+│   │   ├── HelloThere.9fb0245b.js.map
+│   │   ├── client.50f1868d.js
+│   │   ├── client.50f1868d.js.map
+│   │   ├── index.39048fa7.css
+│   │   ├── runtime-core.esm-bundler.b1c45429.js
+│   │   └── runtime-core.esm-bundler.b1c45429.js.map
+│   ├── favicon.svg
+│   └── robots.txt
+└── server
+    ├── _@astrojs-ssr-virtual-entry.mjs.map
+    ├── _empty-middleware.mjs
+    ├── _empty-middleware.mjs.map
+    ├── chunks
+    │   ├── astro.b2659a38.mjs
+    │   ├── astro.b2659a38.mjs.map
+    │   ├── index.5bf555df.2c2f8848.mjs.map
+    │   ├── index@_@astro.d6e21aa5.mjs
+    │   ├── index@_@astro.d6e21aa5.mjs.map
+    │   └── pages
+    │       ├── index.astro.8fd0d37d.mjs
+    │       └── index.astro.8fd0d37d.mjs.map
+    ├── entry.mjs
+    ├── renderers.mjs
+    └── renderers.mjs.map
+
+6 directories, 22 files

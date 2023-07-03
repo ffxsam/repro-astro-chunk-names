@@ -1,0 +1,28 @@
+dist
+├── client
+│   ├── chunk.runtime-core.esm-bundler.js
+│   ├── chunk.runtime-core.esm-bundler.js.map
+│   ├── entry.HelloThere.js
+│   ├── entry.HelloThere.js.map
+│   ├── entry.client.js
+│   ├── entry.client.js.map
+│   ├── favicon.svg
+│   └── robots.txt
+└── server
+    ├── _@astrojs-ssr-virtual-entry.mjs.map
+    ├── _empty-middleware.mjs
+    ├── _empty-middleware.mjs.map
+    ├── asset.index.css
+    ├── chunk.astro.js
+    ├── chunk.astro.js.map
+    ├── chunk.index.js.map
+    ├── chunk.index@_@astro.js
+    ├── chunk.index@_@astro.js.map
+    ├── chunk.pages
+    │   ├── index.astro.js
+    │   └── index.astro.js.map
+    ├── entry.mjs
+    ├── renderers.mjs
+    └── renderers.mjs.map
+
+4 directories, 22 files
